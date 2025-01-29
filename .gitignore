@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Specifics
+vendor\openssl
+vendor\libuv
