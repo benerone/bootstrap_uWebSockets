@@ -32,5 +32,6 @@
 *.app
 
 # Specifics
-vendor\openssl
-vendor\libuv
+vendor/openssl
+vendor/libuv
+
