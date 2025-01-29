@@ -34,4 +34,5 @@
 # Specifics
 vendor/openssl
 vendor/libuv
+vendor/zlib
 
