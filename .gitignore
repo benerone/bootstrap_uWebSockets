@@ -35,4 +35,6 @@
 vendor/openssl
 vendor/libuv
 vendor/zlib
+vendor/uSockets
+vendor/uWebSockets
 
